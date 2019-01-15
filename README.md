@@ -25,7 +25,7 @@ error messages closely.
 ### First things first
 0.  Read the [Getting Started Tutorial]( https://git-scm.com/book/en/v2/Getting-Started-Git-Basics), maybe use the [interactive tutorial](https://try.github.io/) 
 1.  Log into your GaTech Github account (https://github.gatech.edu) 
-2.  Visit the people repo under the compgenomics2018 group: https://github.gatech.edu/compgenomics2018 
+2.  Visit the people repo under the compgenomics2019 group: https://github.gatech.edu/compgenomics2019 
 3.  Click the Fork button in the upper right 
 
 ### Homework
