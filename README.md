@@ -31,7 +31,7 @@ error messages closely.
 ### Homework
 
 1.  SSH into the CompGenomics server  
-    *host*: (This server doesn't exist yet) compgenome2018.biology.gatech.edu  
+    *host*: biogenome2019.biosci.gatech.edu 
     *port*: 22  
     *username*: Your gatech username, i.e. achande3  
 	*password*: Your gatech password  
