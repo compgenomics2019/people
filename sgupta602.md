@@ -1,4 +1,4 @@
-#Sinjini Gupta
+# Sinjini Gupta
 
 ![sgupta602](https://github.gatech.edu/sgupta602/people/blob/master/profile-pictures/Gupta.jpg)
 
