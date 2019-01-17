@@ -5,7 +5,7 @@ Email:  pjain310@gatech.edu
 
 ## About me
 
-I am a first year MS in Bioinformatics student. My research interests lie at the intersection of machine learning, genomics and data science. Currently, I am applying machine learning models to identify novel antibiotic resistance mechanisms in \*Pseudomonas aeruginosa\*.
+I am a first year MS in Bioinformatics student. My research interests lie at the intersection of machine learning, genomics and data science. Currently, I am applying machine learning models to identify novel antibiotic resistance mechanisms in *Pseudomonas aeruginosa*.
 
 ## Hobbies
 
