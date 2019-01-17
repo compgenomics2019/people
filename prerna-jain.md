@@ -1,5 +1,4 @@
 # Prerna Jain
----
 ## Contact info
 Email:  pjain310@gatech.edu  
 
