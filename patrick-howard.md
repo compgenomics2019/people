@@ -1,6 +1,6 @@
 #Patrick Howard
 
-![Profile Picture](/profile-pictures/LinkedIn copy.jpg)
+![Profile Picture](/projects/home/phoward38/people/profile-pictures/LinkedIn copy.jpg)
 
 ##Contact Information
 
