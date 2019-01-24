@@ -1,5 +1,5 @@
 # Priyam Raut
-![priyam] (https://github.gatech.edu/praut9/people/blob/313fe9faa67c9d5566c4d55386baff67751fced6/profile-pictures/priyam.jpg)
+![priyam] (https://github.gatech.edu/praut9/people/blob/master/profile-pictures/priyam.jpg)
 
 
 ## Contact info
