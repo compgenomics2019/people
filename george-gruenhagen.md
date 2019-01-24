@@ -1,0 +1,2 @@
+# George Gruenhagen
+I am a Master's student at Georgia Tech majoring in Bioinformatics and my anticipated graduation date is December of 2019. I am seeking internships for the summer of 2019, but I am also exploring post-graduation employment options. I am interested in all aspects of Bioinformatics including: genomics, proteomics, population genetics, next-generation sequencing, oncogenomics, neuroinformatics, comparative genomics, and RNA-seq analysis, to name a few.
